@@ -8,3 +8,6 @@ Linia 7
 Linia 8
 Linia 9 modificada
 Linia 10
+
+
+linia 12
