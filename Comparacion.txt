@@ -11,3 +11,7 @@ Linia 10
 
 
 linia 12
+
+
+
+Linia 17
